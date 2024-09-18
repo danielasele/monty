@@ -21,5 +21,4 @@ Files containing Monty byte codes commonly utilize the .m extension, which has b
 * Any output must be printed on ```stdout```
 * Any error message must be printed on ```stderr```
 
-  ## Author
-  Demiso Daba [me](https://github.com/DemisoDaba/monty)
+
